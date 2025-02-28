@@ -30,12 +30,9 @@
 ## 项目演示
 
 ### 录制场景
-
-<video width="640" height="480" controls src="README.assets/test_video_1.mp4"></video>
-
+https://github.com/SevenFirWorkRoom/bikini_bottom_karen/blob/main/README.assets/test_video_1.mp4
 ### 实际拍摄场景
-
-<video width="640" height="480" controls src="README.assets/test_video_2.mp4"></video>
+https://github.com/SevenFirWorkRoom/bikini_bottom_karen/blob/main/README.assets/test_video_2.mp4
 
 ## 项目安装
 
