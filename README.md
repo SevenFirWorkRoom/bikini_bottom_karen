@@ -29,11 +29,17 @@
 | 前端对话需要按住“空格”键进行对话 |  ✔   |
 
 ## 项目演示
-
-### 录制场景
-https://github.com/SevenFirWorkRoom/bikini_bottom_karen/blob/main/README.assets/test_video_1.mp4
-### 实际拍摄场景
-https://github.com/SevenFirWorkRoom/bikini_bottom_karen/blob/main/README.assets/test_video_2.mp4
+录制场景与实际拍摄场景
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/a3de5cca-6802-46d8-872a-cbd4ebd76d0e" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/5056e5ed-5d05-4895-ab41-d6e8a4379576" muted="false"></video>
+    </td>
+</tr>
+</table>
 
 ## 项目安装
 
